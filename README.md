@@ -1,80 +1,56 @@
-### Hi there 👋 This is Prachi
+### Hi there, This is [Prachi!](https://github.com/Prachi-Gopalani13) 👋
 
-<div style="display:flex;justify-content: space-between;flex-wrap: no-wrap">
-    
-<div>
-    <img align="right" src="https://media.tenor.com/images/334cf1e2aa89a90a274f5a4040d1a6ec/tenor.gif" alt="">
-</div>
-    
-<div>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
-<!-- <div hidden>
-![profile](https://gpvc.arturio.dev/ahmedatef1610)
-![profile](https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views)
-</div> -->
+<br />
+<br />
 
+Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
-[
-    ![facebook](https://img.shields.io/badge/ahmed%20m.atef-blue?style=flat&logo=facebook&logoColor=white&logoWidth=20)
-][facebook]
-[
-    ![github](https://img.shields.io/badge/ahmedatef1610-333333?style=flat&logo=github&logoColor=white&logoWidth=20)
-][github]
-[
-    ![gmail](https://img.shields.io/badge/Gmail-ff0000?style=flat&logo=gmail&logoColor=white&logoWidth=20)
-][gmail]
-[
-    ![website](https://img.shields.io/badge/Website-ff8800?style=flat&logo=google-chrome&logoColor=white&logoWidth=20)
-][website]
+- 🔭 I’m currently working as an Data Scientist
+- 🌱 I’m currently learning Pytorch
+- 👯 I’m looking to collaborate on Data Science and Data Analytics Projects
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-- I'm a Computer Engineer 👨‍💻🖥️
-- I worked as a Full Stack Software Engineer 👨‍💻🌐
-- I worked as an Artificial Intelligence (AI) Engineer 👨‍💻🤖
-- I worked as a Machine Learning (ML) Engineer 👨‍💻🤖📖
-- I worked as a data Engineer 👨‍💻🗃️🗄️
-- I worked as a Computer Vision (CV) Engineer 👨‍💻👁️🖥️
-- I'm working on Web Development (frontend-backend) field 📡🌐
-- I'm working on Data Analysis (EDA) field 📈📊
-- I'm working on Machine Learning and Deep Learning field 🤖📖
-- I'm working on Computer Vision field 👁️🖥️
-- I'm Studying at Shoubra Faculty of Engineering 🏫
+**Languages and Tools:**  
 
-</div>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-</div>
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
 
----
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ahmedatef1610&show_icons=true&hide_border=false&count_private=true&icon_color=ffff00&title_color=ffff00&text_color=dddddd&bg_color=22272E)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedatef1610&layout=compact&langs_count=8&hide_border=false&title_color=ffff00&text_color=dddddd&bg_color=22272E)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
 
----
-
-
-<!-- variables -->
-[website]: https://aae-tech.com/
-[facebook]: https://www.facebook.com/ahmed.m.atef.1610/
-[github]: https://github.com/ahmedatef1610
-[gmail]: mailto:ahmedatef1610@gmail.com
-
-
-
-<div hidden width="0" height="0" style="display:none;">
-<img src="https://gpvc.arturio.dev/ahmedatef1610" alt="profile" width="0" height="0" hidden style="display:none;">
-<img src="https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views" alt="profile" width="0" height="0" hidden style="display:none;">
-</div>
-
-
-</div>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
