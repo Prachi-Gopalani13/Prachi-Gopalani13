@@ -15,16 +15,18 @@ Skills: Machine Learning / Deep Learning / Data Analytics / Management
 
 Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://prachi-gopalani.medium.com/)
 
-## 🔧 Technologies & Tools
+## 🔧 Languages & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GoogleAnalytics-informational?style=flat&logo=googleanalytics&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MachineLearning-informational?style=flat&logo=machinelearning&logoColor=white&color=2bbc8a)
+
 
  
 
