@@ -35,7 +35,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
