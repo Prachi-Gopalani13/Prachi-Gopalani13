@@ -1,6 +1,7 @@
 # Hello, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is [Prachi!](https://github.com/Prachi-Gopalani13)
 
-Data Scientist by Profession. I'm from India, living in Jodhpur (Work form Home) and currently working at Nabler. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
+Data Scientist by Profession. I'm from India, living in Jodhpur (Work form Home) and currently working at Nabler. 
+You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
 
 Skills: Machine Learning / Deep Learning / Data Analytics / Management
 
