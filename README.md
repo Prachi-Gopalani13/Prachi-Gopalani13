@@ -10,7 +10,9 @@ Skills: Machine Learning / Deep Learning / Data Analytics / Management
 - 👯 I’m looking to collaborate on Data Science and Data Analytics Projects
 - 💬 Ask me about anything [here](https://github.com/Prachi-Gopalani13/Prachi-Gopalani13/issues)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## Languages and Tools
+
+![](https://img.shields.io/badge/<Language>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 **Languages and Tools:**  
