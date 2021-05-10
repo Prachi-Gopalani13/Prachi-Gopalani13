@@ -1,11 +1,11 @@
 # Hello, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is [Prachi!](https://github.com/Prachi-Gopalani13)
 
-Data Scientist by Profession. I'm from India, living in and currently working at Nabler. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][1.2]][2].
+Data Scientist by Profession. I'm from India, living in Jodhpur (Work form Home) and currently working at Nabler. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
 
 Skills: Machine Learning / Deep Learning / Data Analytics / Management
 
 - 🔭 I’m currently working as an Data Scientist
-- 📖 Graduated from Goa Institue of Management
+- 📖 Graduated from Goa Institue of Management; Computer Science Engineer
 - 🌱 I’m currently learning Pytorch
 - 👯 I’m looking to collaborate on Data Science and Data Analytics Projects
 - 💬 Ask me about anything [here](https://github.com/Prachi-Gopalani13/Prachi-Gopalani13/issues)
@@ -13,7 +13,7 @@ Skills: Machine Learning / Deep Learning / Data Analytics / Management
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://prachi-gopalani.medium.com/)
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://prachi-gopalani.medium.com/). Read, Enjoy, Comment, Like will be appreciated. Thanks in Advance. 
 
 ## 🔧 Languages & Tools
 
