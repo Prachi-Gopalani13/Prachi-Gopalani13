@@ -1,7 +1,5 @@
 ### Hi there 👋 This is Prachi
 
-# Hi there, I'm [Ahmed M.Atef][facebook] 👋
-
 <div style="display:flex;justify-content: space-between;flex-wrap: no-wrap">
     
 <div>
