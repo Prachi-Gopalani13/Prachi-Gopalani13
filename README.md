@@ -25,7 +25,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-GoogleAnalytics-informational?style=flat&logo=google analytics&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Google_Analytics-informational?style=flat&logo=google-analytics&logoColor=white&color=2bbc8a)
 
 
  
