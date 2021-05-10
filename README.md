@@ -6,7 +6,7 @@ You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
 Skills: Machine Learning / Deep Learning / Data Analytics / Management
 
 - 🔭 I’m currently working as an Data Scientist
-- 📖 Graduated from Goa Institue of Management; Computer Science Engineer
+- 📖 Post Graduation from Goa Institue of Management; Computer Science Engineer
 - 🌱 I’m currently learning Pytorch
 - 👯 I’m looking to collaborate on Data Science and Data Analytics Projects
 - 💬 Ask me about anything [here](https://github.com/Prachi-Gopalani13/Prachi-Gopalani13/issues)
@@ -23,7 +23,6 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/Code-PowerBI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GoogleAnalytics-informational?style=flat&logo=googleanalytics&logoColor=white&color=2bbc8a)
