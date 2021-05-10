@@ -1,8 +1,5 @@
 ### Hi there 👋 This is Prachi
 
-<!--
-**Prachi-Gopalani13/Prachi-Gopalani13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm [Ahmed M.Atef][facebook] 👋
 
 <div style="display:flex;justify-content: space-between;flex-wrap: no-wrap">
@@ -43,6 +40,33 @@
 - I'm working on Machine Learning and Deep Learning field 🤖📖
 - I'm working on Computer Vision field 👁️🖥️
 - I'm Studying at Shoubra Faculty of Engineering 🏫
+
+</div>
+
+</div>
+
+---
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ahmedatef1610&show_icons=true&hide_border=false&count_private=true&icon_color=ffff00&title_color=ffff00&text_color=dddddd&bg_color=22272E)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedatef1610&layout=compact&langs_count=8&hide_border=false&title_color=ffff00&text_color=dddddd&bg_color=22272E)
+
+---
+
+
+<!-- variables -->
+[website]: https://aae-tech.com/
+[facebook]: https://www.facebook.com/ahmed.m.atef.1610/
+[github]: https://github.com/ahmedatef1610
+[gmail]: mailto:ahmedatef1610@gmail.com
+
+
+
+<div hidden width="0" height="0" style="display:none;">
+<img src="https://gpvc.arturio.dev/ahmedatef1610" alt="profile" width="0" height="0" hidden style="display:none;">
+<img src="https://komarev.com/ghpvc/?username=ahmedatef1610&style=flat&label=views" alt="profile" width="0" height="0" hidden style="display:none;">
+</div>
+
 
 </div>
 Here are some ideas to get you started:
