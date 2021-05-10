@@ -28,7 +28,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Google_Analytics-informational?style=flat&logo=google-analytics&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Code-Google_Analytics-informational?style=flat&logo=Anaconda-Navigator&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Jypter-informational?style=flat&logo=Project-Jupyter&logoColor=white&color=2bbc8a)
 
 
  
