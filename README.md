@@ -1,5 +1,4 @@
-### Hi there, This is [Prachi!](https://github.com/Prachi-Gopalani13) 👋
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is [Prachi!](https://github.com/Prachi-Gopalani13)
 
 
 
@@ -11,26 +10,17 @@ Skills: Machine Learning / Deep Learning / Data Analytics / Management
 - 👯 I’m looking to collaborate on Data Science and Data Analytics Projects
 - 💬 Ask me about anything [here](https://github.com/Prachi-Gopalani13/Prachi-Gopalani13/issues)
 
-## Languages and Tools
-
-![](https://img.shields.io/badge/<Language>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://prachi-gopalani.medium.com/)
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
 
 
 
