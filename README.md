@@ -1,11 +1,11 @@
 # Hello, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is [Prachi!](https://github.com/Prachi-Gopalani13)
 
-Data Scientist by Profession. I'm from India, living in Jodhpur (Work form Home) and currently working at Nabler. 
+Data Scientist - NLP by Profession. I'm from India, and currently working at Optum-UnitedHealth Group. 
 You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
 
 Skills: Machine Learning / Deep Learning / Data Analytics / Management
 
-- 🔭 I’m currently working as an Data Scientist
+- 🔭 I’m currently working as an Data Scientist-NLP
 - 📖 Post Graduation from Goa Institue of Management; Computer Science Engineer
 - 🌱 I’m currently learning Pytorch
 - 👯 I’m looking to collaborate on Data Science and Data Analytics Projects
