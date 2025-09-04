@@ -14,7 +14,8 @@ Skills: GenAI / Agents / Prompt Engineering / Machine Learning / Deep Learning /
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Substack]([https://prachi-gopalani.medium.com/](https://hiddenlayers13.substack.com/?utm_campaign=profile_chips)). Read, Enjoy, Comment, Like will be appreciated. Thanks in Advance. 
+Apart from coding, I also maintain a blog - you can find my articles on 
+[Substack](https://hiddenlayers13.substack.com/?utm_campaign=profile_chips). Read, Enjoy, Comment, Like will be appreciated. Thanks in Advance. 
 
 ## 🔧 Languages & Tools
 
