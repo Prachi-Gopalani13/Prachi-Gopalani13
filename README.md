@@ -1,7 +1,7 @@
 # Hello, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is [Prachi!](https://github.com/Prachi-Gopalani13)
 
 Senior Data Scientist - GenAI Engineer by Profession. I'm from India, and currently working at Bristol Myers Squibb. 
-You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][1.2]][2].
+You can find me on [![https://hiddenlayers13.substack.com/?utm_campaign=profile_chips],  or on [![LinkedIn][1.2]][2].
 
 Skills: GenAI / Agents / Prompt Engineering / Machine Learning / Deep Learning / Data Analytics / Management
 
