@@ -1,7 +1,7 @@
 # Hello, folks!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is [Prachi!](https://github.com/Prachi-Gopalani13)
 
 Senior Data Scientist - GenAI Engineer by Profession. I'm from India, and currently working at Bristol Myers Squibb. 
-You can find me on [![https://hiddenlayers13.substack.com/?utm_campaign=profile_chips],  or on [![LinkedIn][1.2]][2].
+You can find me on [![LinkedIn][1.2]][2].
 
 Skills: GenAI / Agents / Prompt Engineering / Machine Learning / Deep Learning / Data Analytics / Management
 
@@ -14,7 +14,7 @@ Skills: GenAI / Agents / Prompt Engineering / Machine Learning / Deep Learning /
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://prachi-gopalani.medium.com/). Read, Enjoy, Comment, Like will be appreciated. Thanks in Advance. 
+Apart from coding, I also maintain a blog - you can find my articles on [Substack]([https://prachi-gopalani.medium.com/](https://hiddenlayers13.substack.com/?utm_campaign=profile_chips)). Read, Enjoy, Comment, Like will be appreciated. Thanks in Advance. 
 
 ## 🔧 Languages & Tools
 
@@ -42,7 +42,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/GopalaniPrachi
+[1]: https://hiddenlayers13.substack.com/?utm_campaign=profile_chips 
 [2]: https://www.linkedin.com/in/prachi-gopalani-954640ba/
 
    
